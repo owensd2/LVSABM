@@ -12,10 +12,6 @@
 # Copyright (c) 2022, Daniel Owens, Indecon International Economic Consultants
 # All rights reserved.
 
-using Pkg
-
-Pkg.add(["Agents", "Random", "StatsBase", "Distributions", "Dates", "GLMakie", "Makie", "Plots", "Colors"])
-
 using Agents, Random, StatsBase, Distributions, Dates
 
 # Buyer agent and associated values

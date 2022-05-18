@@ -2,7 +2,7 @@
 
 ## Binder link
 
-https://mybinder.org/v2/gh/owensd2/LVSABM/HEAD?labpath=LVSABM_Workbook.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/owensd2/LVSABM/HEAD?labpath=LVSABM_Workbook.ipynb)
 
 ## Help
 
